@@ -1,3 +1,5 @@
 const kayser = 2
 
-console.log('==>', kayser)
+let jaga = 3
+
+console.log('==>', kayser + jaga)
